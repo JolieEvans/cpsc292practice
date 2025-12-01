@@ -4,21 +4,23 @@ author: "Jolie Evans"
 output: html_notebook
 ---
 
-EDIT #1
+EDIT #1 part A Commit 1
 ```{r}
 data("Loblolly")
 
 plot(x = Loblolly$height, y = Loblolly$age)
 ```
 
-EDIT #2
+EDIT #1 part B Commit 1
 ```{r}
 data("Loblolly")
 
 plot(x = Loblolly$height, y = Loblolly$Seed)
 ```
 
-EDIT #3
+EDIT #2 Commit 2
 ```{r}
+data("mtcars")
 
+plot(x = mtcars$mpg, y = mtcars$cyl)
 ```
