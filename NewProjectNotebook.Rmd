@@ -24,3 +24,10 @@ data("mtcars")
 
 plot(x = mtcars$mpg, y = mtcars$cyl)
 ```
+
+EDIT #3 Commit 3
+```{r}
+data("mtcars")
+
+plot(x = mtcars$mpg, y = mtcars$hp)
+```
