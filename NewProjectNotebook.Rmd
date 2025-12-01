@@ -1,0 +1,24 @@
+---
+title: "Bonus Assignment"
+author: "Jolie Evans"
+output: html_notebook
+---
+
+EDIT #1
+```{r}
+data("Loblolly")
+
+plot(x = Loblolly$height, y = Loblolly$age)
+```
+
+EDIT #2
+```{r}
+data("Loblolly")
+
+plot(x = Loblolly$height, y = Loblolly$Seed)
+```
+
+EDIT #3
+```{r}
+
+```
